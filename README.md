@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Utkarsh <br>A passionate Backend Developer<br><br>💡 Ask me about Golang, Android, and DevOps 
+Hi, I am **Utkarsh** <br>A **passionate Backend Developer**<br><br>💡 Ask me about **Golang**, **Android**, and **DevOps** 
 
 
 ## 🌐 Socials:
